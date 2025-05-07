@@ -36,3 +36,109 @@ Clear navigation helps users complete bookings faster.
 Builds trust
 Clean design
 
+              Project Roles and Responsibilities
+ 1. Project Manager Responsibilities - Plan
+                                       track
+                                       manage timelines
+                     Contribution:
+Keeps the project on time and within scope by facilitating planning, communication, and conflict resolution.
+
+🎨 2. Designers (UI/UX)
+Responsibilities:
+
+Design wireframes, mockups, and final UI assets
+
+Ensure the product is visually appealing and user-friendly
+
+Conduct usability tests and iterate designs based on feedback
+
+Define consistent branding and layout guidelines
+
+Contribution:
+Delivers an intuitive and attractive user experience that builds trust and encourages bookings.
+
+💻 3. Frontend Developers
+Responsibilities:
+
+Build interactive interfaces using frameworks like React or Vue
+
+Implement UI designs responsively and accessibly
+
+Integrate frontend with backend APIs
+
+Optimize app performance on different devices
+
+Contribution:
+Turns design into functional, responsive interfaces that users interact with daily.
+
+🔧 4. Backend Developers
+Responsibilities:
+
+Design and build APIs, business logic, and databases
+
+Ensure data security, user authentication, and access control
+
+Optimize server performance and handle errors
+
+Integrate third-party services (e.g., Stripe, Cloudinary)
+
+Contribution:
+Provides a secure, efficient engine powering user data, bookings, payments, and more.
+
+🧪 5. QA/Testers
+Responsibilities:
+
+Write and run test cases for UI and API
+
+Report bugs, regressions, and edge case failures
+
+Automate repetitive tests when possible
+
+Ensure app stability across browsers and devices
+
+Contribution:
+Guarantees that the app works reliably, helping to deliver a smooth, bug-free experience.
+
+☁️ 6. DevOps Engineers
+Responsibilities:
+
+Set up and manage deployment pipelines (CI/CD)
+
+Monitor server health and performance
+
+Handle backups, logging, and error tracking
+
+Maintain cloud infrastructure (e.g., AWS, GCP)
+
+Contribution:
+Ensures the app is always available, scalable, and securely deployed with minimal downtime.
+
+📌 7. Product Owner
+Responsibilities:
+
+Define the product vision and roadmap
+
+Prioritize features based on business value
+
+Write user stories and clarify requirements
+
+Act as the voice of the customer
+
+Contribution:
+Keeps the team focused on building the right features that solve user problems and meet business goals.
+
+🌀 8. Scrum Master
+Responsibilities:
+
+Facilitate daily standups, sprint planning, and retrospectives
+
+Remove blockers for the team
+
+Ensure the team follows Agile principles
+
+Promote continuous improvement
+
+Contribution:
+Improves team velocity and efficiency by maintaining a productive, transparent development process.
+
+
