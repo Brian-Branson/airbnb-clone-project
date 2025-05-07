@@ -36,109 +36,106 @@ Clear navigation helps users complete bookings faster.
 Builds trust
 Clean design
 
-              Project Roles and Responsibilities
- 1. Project Manager Responsibilities - Plan
-                                       track
-                                       manage timelines
+              Project Roles and Responsibilitie
+  Project Manager
+    Responsibilities 
+    Plan
+    track
+    manage timelines
                      Contribution:
-Keeps the project on time and within scope by facilitating planning, communication, and conflict resolution.
+Keeps the project on time and within scope by facilitating planning
+communication, and conflict resolution.
 
-🎨 2. Designers (UI/UX)
+   Designers (UI/UX)
 Responsibilities:
-
-Design wireframes, mockups, and final UI assets
-
+Design wireframes
+mockups
+final UI assets
 Ensure the product is visually appealing and user-friendly
 
-Conduct usability tests and iterate designs based on feedback
-
-Define consistent branding and layout guidelines
-
 Contribution:
+
 Delivers an intuitive and attractive user experience that builds trust and encourages bookings.
 
-💻 3. Frontend Developers
+   Frontend Developers
 Responsibilities:
-
 Build interactive interfaces using frameworks like React or Vue
-
 Implement UI designs responsively and accessibly
-
 Integrate frontend with backend APIs
-
 Optimize app performance on different devices
 
 Contribution:
-Turns design into functional, responsive interfaces that users interact with daily.
+Turns design into functional
+responsive interfaces that users interact with daily.
 
-🔧 4. Backend Developers
+  Backend Developers
 Responsibilities:
 
-Design and build APIs, business logic, and databases
-
-Ensure data security, user authentication, and access control
-
+Design and build APIs
+business logic, and databases
+Ensure data security
+user authentication, and access control
 Optimize server performance and handle errors
-
 Integrate third-party services (e.g., Stripe, Cloudinary)
 
 Contribution:
 Provides a secure, efficient engine powering user data, bookings, payments, and more.
 
-🧪 5. QA/Testers
+   QA/Testers
 Responsibilities:
-
 Write and run test cases for UI and API
-
 Report bugs, regressions, and edge case failures
-
 Automate repetitive tests when possible
-
 Ensure app stability across browsers and devices
 
 Contribution:
-Guarantees that the app works reliably, helping to deliver a smooth, bug-free experience.
+Guarantees that the app works reliably
+helping to deliver a smooth, bug-free experience.
 
-☁️ 6. DevOps Engineers
+  DevOps Engineers
 Responsibilities:
-
 Set up and manage deployment pipelines (CI/CD)
-
 Monitor server health and performance
-
 Handle backups, logging, and error tracking
-
 Maintain cloud infrastructure (e.g., AWS, GCP)
 
 Contribution:
 Ensures the app is always available, scalable, and securely deployed with minimal downtime.
 
-📌 7. Product Owner
+   Product Owner
 Responsibilities:
-
 Define the product vision and roadmap
-
 Prioritize features based on business value
-
 Write user stories and clarify requirements
-
 Act as the voice of the customer
 
 Contribution:
 Keeps the team focused on building the right features that solve user problems and meet business goals.
 
-🌀 8. Scrum Master
+   Scrum Master
 Responsibilities:
-
 Facilitate daily standups, sprint planning, and retrospectives
-
 Remove blockers for the team
-
 Ensure the team follows Agile principles
-
 Promote continuous improvement
 
 Contribution:
 Improves team velocity and efficiency by maintaining a productive, transparent development process.
 
+        UI Component Patterns
+| **Component**            | **Description**                                                                                    | **Purpose/Usage**                                                              |
+| ------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Navbar**               | A top navigation bar with logo, search bar, login/signup, and profile/host links                   | Helps users navigate across pages like Home, Listings, Dashboard, etc.         |
+| **Footer**               | A bottom section with links (About, Support, Terms, Socials), and language/currency settings       | Provides important site-wide info and navigation at the bottom of all pages    |
+| **Property Card**        | A reusable card showing image, title, location, price, rating, and short description of a property | Used in the listing/search view to display multiple properties in grid or list |
+| **Search Filter Bar**    | Filter inputs for location, price range, date range, amenities, guest count                        | Allows users to customize and refine property search                           |
+| **Date Picker**          | Calendar UI for selecting check-in and check-out dates                                             | Key part of booking flow to define availability                                |
+| **Booking Button**       | A CTA (call-to-action) button like “Book Now” or “Request to Book”                                 | Triggers checkout or booking request process                                   |
+| **Image Carousel**       | A slider displaying multiple property photos                                                       | Used in property detail pages for better visual exploration                    |
+| **Review Section**       | Shows guest reviews, ratings, and feedback                                                         | Builds trust and social proof on the listing detail page                       |
+| **Host Info Panel**      | Displays host name, photo, profile link, and response rate                                         | Introduces the host to guests and adds transparency                            |
+| **Booking Summary**      | Compact view of selected dates, guests, pricing breakdown                                          | Helps users confirm what they’re booking during checkout                       |
+| **Message Modal**        | Popup or inline UI for guest–host messaging                                                        | Enables communication before and after booking                                 |
+| **Login/Register Forms** | Auth forms with input validation and error messages                                                | For account creation and secure sign-in                                        |
+| **Dashboard Sidebar**    | Navigation sidebar for host/guest dashboard (e.g., My Listings, My Bookings)                       | Improves UX for logged-in users managing multiple actions                      |
 
